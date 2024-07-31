@@ -1,9 +1,14 @@
 <?php
+require_once realpath(__DIR__ . "/vendor/autoload.php");
+use Dotenv\Dotenv;
+$dotenv = Dotenv::createImmutable(__DIR__);
+$dotenv->load();
+
 require 'mysql_con.php';
 
-$verify_token = "EAAWwHhaIytsBO37jb7wkCA0XkGlUOrh4192LBSY8DcEuCTmvP04o3bdsR22iHVxsNzZAQ4u4VQBhGqSQItkEKWD2zlGIHfDZCxZBLRXPAjYQZAZB0JGZAuHKEZCKLoLbyFhe72SL5LqpZCb2ybbOEwWpmiZCXZAP4ihfjqeTuZC6W2buTwPGy8ZAexuB9DMbg9tz1BRE0CKOPUm20TAlFowZBNLcZD";
+$verify_token = $_ENV['ACCESS_TOKEN'];
 
-$access_token = "EAAWwHhaIytsBO37jb7wkCA0XkGlUOrh4192LBSY8DcEuCTmvP04o3bdsR22iHVxsNzZAQ4u4VQBhGqSQItkEKWD2zlGIHfDZCxZBLRXPAjYQZAZB0JGZAuHKEZCKLoLbyFhe72SL5LqpZCb2ybbOEwWpmiZCXZAP4ihfjqeTuZC6W2buTwPGy8ZAexuB9DMbg9tz1BRE0CKOPUm20TAlFowZBNLcZD";
+$access_token = $_ENV['ACCESS_TOKEN'];
 $phone_number_id = "391470320715202";
 
 // Log incoming GET request for debugging

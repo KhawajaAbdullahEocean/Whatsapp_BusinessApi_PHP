@@ -1,4 +1,5 @@
 <?php
+
 require 'mysql_con.php';
 require 'tickets_db.php';
 ?>

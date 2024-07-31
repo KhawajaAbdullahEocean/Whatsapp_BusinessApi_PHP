@@ -54,3 +54,7 @@ t
 2024-07-31 12:11:33 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMzY2RDlBMDBBOEZDOEFCNjMwAA=="}]} - HTTP Code: 200
 2024-07-31 12:11:56 Message: 923352753163 1 repair
 2024-07-31 12:11:57 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMjA2NUQzQkY5NEY4RUJCQUU3AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 12:47:16 Message: 923352753163 Hfjg
+2024-07-31 12:47:18 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSQzZCNDczQzAxRERCQkY4RjAyAA=="}]} - HTTP Code: 200
+2024-07-31 12:47:41 Message: 923352753163 1 tv not working
+2024-07-31 12:47:42 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMEMzMjc3NDgwNzExNTM2M0JGAA==","message_status":"accepted"}]} - HTTP Code: 200
