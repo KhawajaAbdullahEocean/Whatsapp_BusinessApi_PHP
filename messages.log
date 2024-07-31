@@ -1,0 +1,56 @@
+2024-07-31 09:42:51 Message: 923352753163 Hello
+2024-07-31 09:42:52 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSQjcyMUFCMzk4Q0U0QkJBRUVEAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 09:43:01 Message: 923352753163 Fix it
+2024-07-31 09:43:02 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNDUzN0I5RTc3QTdBRDk0NDAxAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 09:43:28 Message: 923352753163 Pls help again
+2024-07-31 09:43:29 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSQzQ5NjU3Mzg2QzMyRkQ5QzhEAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 09:43:42 Message: 923352753163 Fix again
+2024-07-31 09:43:43 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMDc3OUM3QjZBM0M1NjI0MEI0AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:06:42 Message: 923352753163 Hello
+2024-07-31 10:06:43 - Response: {"error":{"message":"(#132001) Template name does not exist in the translation","type":"OAuthException","code":132001,"error_data":{"messaging_product":"whatsapp","details":"template name (chat_format) does not exist in en"},"fbtrace_id":"AU1es5eNpT8x3Fl5soPt9hT"}} - HTTP Code: 404
+2024-07-31 10:08:30 Message: 923352753163 Hihi
+2024-07-31 10:08:31 - Response: {"error":{"message":"(#132001) Template name does not exist in the translation","type":"OAuthException","code":132001,"error_data":{"messaging_product":"whatsapp","details":"template name (chat_format) does not exist in en_US"},"fbtrace_id":"AFczyHxKrBuwyRheSCrNlQB"}} - HTTP Code: 404
+2024-07-31 10:14:14 Message: 923352753163 Hello
+2024-07-31 10:14:16 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNTdFNkQ3REE1QUEyQzQxQzEwAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:14:30 Message: 923352753163 1 okok
+2024-07-31 10:14:30 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMTUxMUI4NUJENjFFRUEyRDlFAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:14:39 Message: 923352753163 2 hdj
+2024-07-31 10:14:40 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNUE5NzExMzQ0RjRFODlCNDIyAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:53:19 Message: 923352753163 Hello
+2024-07-31 10:53:20 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSM0Q3ODA3Q0REQjhDOTQ0REFEAA=="}]} - HTTP Code: 200
+2024-07-31 10:53:45 Message: 923352753163 Jfjjg
+2024-07-31 10:54:15 Message: 923352753163 Jfjjg
+t
+2024-07-31 10:54:25 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNDNDMkFDRkRERjRBMzYxREREAA=="}]} - HTTP Code: 200
+2024-07-31 10:54:25 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSRUY4Q0JGQ0M2REUwRkZGMDBFAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:54:25 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMDZFQzVFNzg4MkE0NzMwOTQxAA=="}]} - HTTP Code: 200
+2024-07-31 10:54:33 Message: 923352753163 Hehe
+2024-07-31 10:54:33 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNDY1MzA4NUQ2NzJCREY2RjY4AA=="}]} - HTTP Code: 200
+2024-07-31 10:54:44 Message: 923352753163 Jfjjg
+2024-07-31 10:54:46 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMDY1RTVGMjhFNkFFQ0Y4NkQwAA=="}]} - HTTP Code: 200
+2024-07-31 10:54:46 Message: 923352753163 1 fix it
+2024-07-31 10:54:48 Message: 923352753163 Hehe
+2024-07-31 10:54:48 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSOUU1Mjc1MTFCNjQ3MDU3RTZFAA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:54:50 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNkNBQjIxMzVENkUzQTdGNTJBAA=="}]} - HTTP Code: 200
+2024-07-31 10:54:58 Message: 923352753163 Okok
+2024-07-31 10:55:00 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSNUY5QjEzNEFDNUFCQzcwMjQ4AA=="}]} - HTTP Code: 200
+2024-07-31 10:55:09 Message: 923352753163 1 fix it
+2024-07-31 10:55:10 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMjE1MTM1QTRGQ0U1NzUwNUQ3AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:55:15 Message: 923352753163 H
+2024-07-31 10:55:16 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMDFDN0YxNTAzNDkxQkZEODBDAA=="}]} - HTTP Code: 200
+2024-07-31 10:55:22 Message: 923352753163 1 hehe
+2024-07-31 10:55:23 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSRTc5QTdERTg3Q0E1NkUwNDM0AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 10:59:09 Message: 923352753163 Hello
+2024-07-31 10:59:09 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSQTRFN0QwMUQ1RDcyN0RCMzBDAA=="}]} - HTTP Code: 200
+2024-07-31 10:59:16 Message: 923352753163 Kgjg
+2024-07-31 10:59:17 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSN0EzNDNFOEIxNzg3QzQwREQ2AA=="}]} - HTTP Code: 200
+2024-07-31 10:59:32 Message: 923352753163 1 fix it
+2024-07-31 10:59:33 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSRDFENTkwMTM0NzkyNDE0OEY1AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 11:08:49 Message: 923352753163 1 fix it
+2024-07-31 11:08:50 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSQ0NDRDNGMTkzRUUzN0U0NEQ3AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 11:16:22 Message: 923352753163 1 fix it
+2024-07-31 11:16:23 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMzFBRDI1MjI0NzM1NDNDRjU5AA==","message_status":"accepted"}]} - HTTP Code: 200
+2024-07-31 12:11:31 Message: 923352753163 Huehue
+2024-07-31 12:11:33 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMzY2RDlBMDBBOEZDOEFCNjMwAA=="}]} - HTTP Code: 200
+2024-07-31 12:11:56 Message: 923352753163 1 repair
+2024-07-31 12:11:57 - Response: {"messaging_product":"whatsapp","contacts":[{"input":"923352753163","wa_id":"923352753163"}],"messages":[{"id":"wamid.HBgMOTIzMzUyNzUzMTYzFQIAERgSMjA2NUQzQkY5NEY4RUJCQUU3AA==","message_status":"accepted"}]} - HTTP Code: 200
